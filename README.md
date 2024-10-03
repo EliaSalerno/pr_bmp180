@@ -12,6 +12,20 @@ In parole semplici,se si applica una pressione di 10 bar a 25°C e, una seconda 
 Nell’analisi di una scheda tecnica per gli utenti, questo significa che valori di accuratezza eccellenti in realtà servono a poco 
 se la compensazione della temperatura non è adeguata. 
 ```
-![alt prova](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-BMP180-Tutorial-Measurement-Flow-Chart.png)
+![alt text](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-BMP180-Tutorial-Measurement-Flow-Chart.png)
+
+## BMP180
+
+### The Bosch BMP180 runs on 3.3V, but many breakout boards have a voltage regulator and an I2C level shifter so you can power it with either 3.3V or 5V.
+
+![alt text](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-Pressure-Sensor-Tutorial-BMP180-Pin-Diagram.png)
+
+> Installing the BMP180 Library
+```
+Before we start programming the BMP180, download and install the library. 
+I’m going to use a really useful BMP180 library from Sparkfun. It takes care of all the math for calculating the true temperature and pressure readings, 
+as well as the math for calculating altitude.
+```
+https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip
 
 ### ---
