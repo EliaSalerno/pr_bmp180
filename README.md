@@ -12,4 +12,6 @@ In parole semplici,se si applica una pressione di 10 bar a 25°C e, una seconda 
 Nell’analisi di una scheda tecnica per gli utenti, questo significa che valori di accuratezza eccellenti in realtà servono a poco 
 se la compensazione della temperatura non è adeguata. 
 ```
+![alt prova](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-BMP180-Tutorial-Measurement-Flow-Chart.png)
+
 ### ---
