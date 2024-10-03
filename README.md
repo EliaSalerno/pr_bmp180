@@ -21,11 +21,11 @@ se la compensazione della temperatura non è adeguata.
 ![alt text](https://www.circuitbasics.com/wp-content/uploads/2017/05/Arduino-Pressure-Sensor-Tutorial-BMP180-Pin-Diagram.png)
 
 > Installing the BMP180 Library
-```
-Before we start programming the BMP180, download and install the library. 
-I’m going to use a really useful BMP180 library from Sparkfun. It takes care of all the math for calculating the true temperature and pressure readings, 
-as well as the math for calculating altitude.
-```
+
+### Before we start programming the BMP180, download and install the library. 
+### I’m going to use a really useful BMP180 library from Sparkfun. It takes care of all the math for calculating the true temperature and pressure readings, 
+### as well as the math for calculating altitude.
+
 https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip
 
 ### You can download a ZIP file of the library from this link. To install it, open up the Arduino IDE, go to Sketch > Include Library > Add Library, then select the ZIP file you just downloaded.
