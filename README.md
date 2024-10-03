@@ -28,4 +28,6 @@ as well as the math for calculating altitude.
 ```
 https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip
 
+### You can download a ZIP file of the library from this link. To install it, open up the Arduino IDE, go to Sketch > Include Library > Add Library, then select the ZIP file you just downloaded.
+
 ### ---
