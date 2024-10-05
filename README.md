@@ -30,6 +30,6 @@ https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip
 
 ### You can download a ZIP file of the library from this link. To install it, open up the Arduino IDE, go to Sketch > Include Library > Add Library, then select the ZIP file you just downloaded.
 
-https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/09/bmp180-barometris-sensor_bb.png?w=700&quality=100&strip=all&ssl=1
+![alt text](https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2016/09/bmp180-barometris-sensor_bb.png?w=700&quality=100&strip=all&ssl=1)
 
 ### ---
