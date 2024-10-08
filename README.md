@@ -23,7 +23,9 @@ https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip
 ## Altra libreria, diverse funzioni ma codice più snello
 ### Nella directory librerie_utili si trova una nuova libreria che va aggiunta seguendo il seguente iter:
 ### barra strumenti -> sketch->Includi libreria->Aggiungi libreria da file .ZIP
-## UGUALE METODO PER L'INSTALLAZIONE DELLA LIBRERIA PRECEDENTEMENTE TRATTATA
+### Invece la nuova libreria per il sensore va inserita in questo modo:
+### Sketch -> Includi libreria -> gestisci librerie
+### UGUALE METODO PER L'INSTALLAZIONE DELLA LIBRERIA PRECEDENTEMENTE TRATTATA
 ```
 In questa versione del codice (che qui trovi sotto il nome sketch_PressTempAlt) uso la libreria Adafruit_BMP085 
 compatibile anche con la versione 180. Ho trovato interessante il fatto che per la rilevazione usasse solo una 
