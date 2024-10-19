@@ -13,7 +13,7 @@
 ### I’m going to use a really useful BMP180 library from Sparkfun. It takes care of all the math for calculating the true temperature and pressure readings, 
 ### as well as the math for calculating altitude.
 
-https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip
+![alt text](https://github.com/sparkfun/BMP180_Breakout_Arduino_Library/archive/master.zip)
 
 ### You can download a ZIP file of the library from this link. To install it, open up the Arduino IDE, go to Sketch > Include Library > Add Library, then select the ZIP file you just downloaded.
 
@@ -34,3 +34,9 @@ una funzione che calcola l'altitudine. Il problema è che si necessita della mis
 del mare. Sto pensando di creare un programma che permetta di inserire questo valore in modo dinamico senza dover
 ogni volta mettere mani al codice. 
 ```
+# Problemi di temperatura
+## La temperatura non è corretta: come risolvere?
+### link utili: 
+![alt text](https://overvolt.tech/sensori/2)
+![alt text](https://www.arduinofacile.it/2021/04/29/controllo-di-temperatura-mediante-tmp36-tinkercad/)
+![alt text](https://www.makerguides.com/tmp36-arduino-tutorial/)
