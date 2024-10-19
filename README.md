@@ -37,6 +37,6 @@ ogni volta mettere mani al codice.
 # Problemi di temperatura
 ## La temperatura non è corretta: come risolvere?
 ### link utili: 
-![Equazione di Steinhart-Hart su termistore](https://overvolt.tech/sensori/2)
-![Progetto su tinkercad](https://www.arduinofacile.it/2021/04/29/controllo-di-temperatura-mediante-tmp36-tinkercad/)
-![TMP36 analog temperature sensor with Arduino tutorial](https://www.makerguides.com/tmp36-arduino-tutorial/)
+ - ![Equazione di Steinhart-Hart su termistore](https://overvolt.tech/sensori/2)
+ - ![Progetto su tinkercad](https://www.arduinofacile.it/2021/04/29/controllo-di-temperatura-mediante-tmp36-tinkercad/)
+ - ![TMP36 analog temperature sensor with Arduino tutorial](https://www.makerguides.com/tmp36-arduino-tutorial/)
