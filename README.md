@@ -40,3 +40,12 @@ ogni volta mettere mani al codice.
  - ![Equazione di Steinhart-Hart su termistore](https://overvolt.tech/sensori/2)
  - ![Progetto su tinkercad](https://www.arduinofacile.it/2021/04/29/controllo-di-temperatura-mediante-tmp36-tinkercad/)
  - ![TMP36 analog temperature sensor with Arduino tutorial](https://www.makerguides.com/tmp36-arduino-tutorial/)
+
+# Steinhart-Hart su termoresistenza
+## Test equazione di Steinhart-Hart su termoresistenza
+### Ho fatto un test su una termoresistenza che avevo a casa, utilizzando il primo dei tre link sopra. 
+```
+Il circuito è alimentato a 5v, ho fatto un partitore con una resistenza da 10k; utilizzando l'equazione di Steinhart-Hart ho testato il funzionamento 
+in casa confrontando i valori con quelli rilevati dal termostato. Il risultato è stato ottimo!
+Tra i due c'è una variazione di massimo 0,2 °
+```
