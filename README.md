@@ -93,8 +93,8 @@ void loop() {
 }
 ```
 
-### Si potrebbe implementare questo codice su quello del progetto precedente al posto del trimmer/potenziometro, ovviamente se 
-### risulta possibile inviare mediante seriale.
-### In breve lo scopo è di utilizzare il medesimo canale in entrambi e sensi e il seriale utilizzato con il tablet dovrebbe
-### permetterlo, quando vi spostate in montagna al cambio di altitudine inserite da tablet il nuovo valore e lui con i suoi 
-### calcoli restituisce pressione e temperatura corretti.
+### Si potrebbe implementare questo codice su quello del progetto precedente al posto del 
+### trimmer/potenziometro, ovviamente se risulta possibile inviare mediante seriale.
+### In breve lo scopo è di utilizzare il medesimo canale in entrambi e sensi e il seriale utilizzato 
+### con il tablet dovrebbe permetterlo, quando vi spostate in montagna al cambio di altitudine 
+### inserite da tablet il nuovo valore e lui con i suoi calcoli restituisce pressione e temperatura corretti.
