@@ -49,3 +49,12 @@ Il circuito è alimentato a 5v, ho fatto un partitore con una resistenza da 10k;
 in casa confrontando i valori con quelli rilevati dal termostato. Il risultato è stato ottimo!
 Tra i due c'è una variazione di massimo 0,2 °
 ```
+# Test trimmer per variare altitudine
+## Ho realizzato questo test per vedere come alterare l'altitudine in fase di salita
+### Nel repository è presente una foto del mio test
+
+ - https://www.arduinofacile.it/2019/11/13/controllo-di-un-led-mediante-un-potenziometro/
+
+### Questo è il link utile da cui comprendere come configurare il trimmer/potenziometro
+### Differenza tra il trimmer e il potenziometro
+### il potenziometro dispone di una manopolina per alterare il valore in uscita, mentre per il trimmer bisogna usare un cacciavite 
